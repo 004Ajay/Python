@@ -1,0 +1,14 @@
+con=input().split(",")
+d={}
+snake=0
+ladder=0
+for c in con:
+  k=c.split(":")
+  d[int(k[0])]=int(k[1])
+for key in d:
+  if key>d[key]:
+    snake+=1
+  else:
+    ladder+=1
+print(snake,ladder,end="")
+ 
