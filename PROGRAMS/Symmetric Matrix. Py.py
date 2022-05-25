@@ -13,7 +13,7 @@ if f==0:
 else:
   print("No",end="")
 
-Given a N X N square matrix, determine if it is a Symmetric Matrix.
+#Given a N X N square matrix, determine if it is a Symmetric Matrix.
 
 
   
