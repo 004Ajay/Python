@@ -3,10 +3,12 @@
 
 # PYTHON Programming
 Python is a high-level, interpreted, general-purpose programming language. with easy code readability achieved by use of significant indentations.
+
 ---
 
 # Python Tips
-## python code to accept multiple inputs in one line:  input_var_name,  input_var_name,  input_var_name = list(map(int,input().split()))
+* python code to accept multiple inputs in one line:  input_var_name,  input_var_name,  input_var_name = list(map(int,input().split()))
+
 ---
 
 ## PROGRAMS
