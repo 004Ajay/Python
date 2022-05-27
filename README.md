@@ -7,20 +7,25 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 ---
 
 # Python Tips
-* python code to accept multiple inputs in one line:  
+* python code to accept multiple inputs as list in one line:  
 input_var_name,  input_var_name = list(map(int,input().split()))
 
 ---
 
 ## PROGRAMS
-[10NatNums](https://github.com/004Ajay/OperatingSystem/blob/main/10NatNums.sh) 
+[Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
 
-[BasicDetails](https://github.com/004Ajay/OperatingSystem/blob/main/BasicDetails.sh) 
+[HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
 
-[BiggestOfTwoNums](https://github.com/004Ajay/OperatingSystem/blob/main/BiggestOfTwoNums.sh) 
+[Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/LargestOfThreeNumbers.py) 
 
-[Factorial](https://github.com/004Ajay/OperatingSystem/blob/main/Factorial.sh) 
+[MultiplicationTable](https://github.com/004Ajay/Python/blob/main/MultiplicationTable.py) 
 
-[Fibonacci](https://github.com/004Ajay/OperatingSystem/blob/main/Fibonacci.sh) 
+[Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/NumOccurenceRemoval.py) 
 
-[SumOfTwoNums](https://github.com/004Ajay/OperatingSystem/blob/main/SumOfTwoNums.sh) 
+[SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/SA & VOL of Cylinder.py) 
+
+[Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
+
+[Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
+
