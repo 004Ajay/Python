@@ -10,6 +10,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 * python code to accept multiple inputs as list in one line:  
 input_var_name,  input_var_name = list(map(int,input().split()))
 
+* use 'pip list' in cmd to see list of installed python packages
+
 ---
 
 ## PROGRAMS
