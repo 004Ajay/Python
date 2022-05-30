@@ -32,3 +32,8 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
 
 [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
+
+---
+# Personal Works
+
+[Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/WordReplacing.py)
