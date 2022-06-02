@@ -21,7 +21,9 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 
 [Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/LargestOfThreeNumbers.py) 
 
-[Matrix Addition using Numpy](https://github.com/004Ajay/Python/blob/main/MatAddition.py)
+[Matrix Addition with Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithNumpy.py)
+
+[Matrix Addition without Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithoutNumpy.py)
 
 [MultiplicationTable](https://github.com/004Ajay/Python/blob/main/MultiplicationTable.py) 
 
