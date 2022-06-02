@@ -4,11 +4,11 @@ num = tuple(map(int,input("Enter numbers: ").split()))
 even = []
 odd = []
 print("Input: ", num)
-for i in range(1, len(num)+1):
-    if (i % 2 == 0):
-        even.append(i)
+for i in range(len(num)):
+    if (num[i] % 2 == 0):
+        even.append(num[i])
     else:
-        odd.append(i)
+        odd.append(num[i])
 
 print("Even numbers: ", tuple(even))
 print("Odd numbers: ", tuple(odd))
