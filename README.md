@@ -15,6 +15,9 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 ---
 
 ## PROGRAMS
+
+[Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
+
 [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
 
 [HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
