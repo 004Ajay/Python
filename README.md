@@ -29,6 +29,8 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 
 [Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/NumOccurenceRemoval.py) 
 
+[Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/PrimeNumFromFile.py)
+
 [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
 
 [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
