@@ -16,7 +16,7 @@ stock = {
 # Function to update stocks
 def stock_updation():
     while True:  
-        print(stock) # shwoing list for giving name in next line
+        print(stock) # showing list for giving name in next line
         update_book = input("Enter book name to update: ")
         if update_book in stock: # checks if book exist in dictionary
             count = int(input("Enter book count: "))
