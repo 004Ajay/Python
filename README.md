@@ -18,6 +18,8 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 
 [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
 
+[Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
+
 [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
 
 [HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
@@ -30,15 +32,21 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 
 [MultiplicationTable](https://github.com/004Ajay/Python/blob/main/MultiplicationTable.py) 
 
+[Normal & Stem Graphs](https://github.com/004Ajay/Python/blob/main/NormalStemGraphs.py) 
+
 [Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/NumOccurenceRemoval.py) 
+
+[Plot y =  f(x)](https://github.com/004Ajay/Python/blob/main/PlotyFx.py) 
 
 [Poisson Distribution Formula](https://github.com/004Ajay/Python/blob/main/PoissonDistribution.py)
 
 [Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/PrimeNumFromFile.py)
 
-[SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
+[Programming Graph](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
 
-[Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
+[Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py) 
+
+[SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
 
 [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
 
@@ -48,3 +56,5 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 # Personal Works
 
 [Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/Personal/BookStockDict.py)
+
+[Guess the Number](https://github.com/004Ajay/Python/blob/main/Personal/GuessTheNumber.py)
