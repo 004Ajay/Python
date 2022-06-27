@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df = pd.read_csv('ADL_202_ex.csv') # Opening CSV File, keep this file on your current folder
+df = pd.read_csv('ADL_202_ex.csv') # Opening CSV File
 
 OverallMean = df['Mark'].mean() # Mean of whole Dataset
 
@@ -14,7 +14,6 @@ plt.plot(X_Axis, Y_Axis, color='green', linestyle= 'dotted')
 
 # MALE DATA MANIPULATION
 maleData = df.loc[df['Gender']=='m'] # Separating Male's Data
-maleMarkMean = maleData['Mark'].mean() # Male mark's mean
 maleLowestMark = maleData['Mark'].min() # Male's min mark
 maleHighestMark = maleData['Mark'].max() # Male max mark
 
@@ -30,7 +29,6 @@ plt.scatter(maleLowers['Sl No'], maleLowers['Mark'], marker='.', facecolor = 're
  
 # FEMALE DATA MANIPULATION
 femaleData = df.loc[df['Gender']=='f'] # Separating Female's Data
-femaleMarkMean = femaleData['Mark'].mean() # Female mark's mean
 femaleLowestMark = femaleData['Mark'].min() # Female min mark
 femaleHighestMark = femaleData['Mark'].max() # Female max mark
 
