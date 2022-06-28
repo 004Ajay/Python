@@ -62,14 +62,18 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 
 # Python PIP Tips
 
-* use 'pip install <package_name>' to install packages
+* To install packages
 
-* use 'pip uninstall <package_name>' to uninstall packages
+        pip install <package_name>
 
-* use 'pip list' in cmd to see list of installed python packages
+* To uninstall packages
 
-* use 'pip list -o' to see outdated packages in your system
+        pip uninstall <package_name>
 
-* use 
+* To see list of installed python packages
 
-            pip install <package_name>
+        pip list
+
+* To see outdated packages in your system
+
+        pip list -o
