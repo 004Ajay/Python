@@ -57,8 +57,25 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 # Python Tips
 
-* python code to accept multiple inputs as list in one line:  
-input_var_name,  input_var_name = list(map(int,input().split()))
+* To accept multiple inputs as list in one line
+
+        input_var_name,  input_var_name = list(map(int,input().split()))
+
+* To print in a more readable way (f-strings)
+
+        print(f"write something")
+
+* To open files and close it without writing file.close() explicitly
+
+        with open("<FileName>", '<mode>') as <variable_name>:
+
+* To print some digits after decimal point
+
+        print(round(<var_name>, <no_of_digits_after_dp>))
+
+* To return more than one value from a function
+
+        return <value1>, <value2>
 
 # Python PIP Tips
 
