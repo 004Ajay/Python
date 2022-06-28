@@ -6,14 +6,6 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 ---
 
-# Python Tips
-* python code to accept multiple inputs as list in one line:  
-input_var_name,  input_var_name = list(map(int,input().split()))
-
-* use 'pip list' in cmd to see list of installed python packages
-
----
-
 ## PROGRAMS
 
 [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
@@ -60,3 +52,24 @@ input_var_name,  input_var_name = list(map(int,input().split()))
 [Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/Personal/BookStockDict.py)
 
 [Guess the Number](https://github.com/004Ajay/Python/blob/main/Personal/GuessTheNumber.py)
+
+---
+
+# Python Tips
+
+* python code to accept multiple inputs as list in one line:  
+input_var_name,  input_var_name = list(map(int,input().split()))
+
+# Python PIP Tips
+
+* use 'pip install <package_name>' to install packages
+
+* use 'pip uninstall <package_name>' to uninstall packages
+
+* use 'pip list' in cmd to see list of installed python packages
+
+* use 'pip list -o' to see outdated packages in your system
+
+* use 
+
+            pip install <package_name>
