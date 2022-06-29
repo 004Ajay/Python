@@ -51,7 +51,13 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 [Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/Personal/BookStockDict.py)
 
-[Guess the Number](https://github.com/004Ajay/Python/blob/main/Personal/GuessTheNumber.py)
+### Guess the Number programs
+
+* [Guess the Number (Computer & Human)](https://github.com/004Ajay/Python/blob/main/Personal/GuessCompiled.py)
+
+* [Guess the Number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/GuessComputer.py)
+
+* [Guess the Number (Human)](https://github.com/004Ajay/Python/blob/main/Personal/GuessHuman.py)
 
 ---
 
