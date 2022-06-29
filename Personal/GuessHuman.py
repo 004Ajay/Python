@@ -11,7 +11,7 @@ def guess(num):
             print("Guess is too low")
         elif guess > random_num:
             print("Guess is too high")
-    print(f'Congrats...You correctly guessed {random_num}\nNumber of steps: {steps-1}') # steps - 1 for omitting the false iteration of loop        
+    print(f'Congrats...You correctly guessed {random_num}\nNumber of steps: {steps}')      
 
 while True:
     limit = int(input("Enter a num(limit): "))
