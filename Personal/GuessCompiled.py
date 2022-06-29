@@ -13,14 +13,14 @@ def computer():
                 print(f"{CompGuess} is too low")
             elif CompGuess > SecretNum:
                 print(f"{CompGuess} is too high")
-        print(f'Computer correctly guessed, {SecretNum}\nNumber of steps: {steps-1}') # steps - 1 for omitting the false run of loop
+        print(f'Computer correctly guessed, {SecretNum}\nNumber of steps: {steps}')
 
     while True:
         LimitNum = int(input("Enter a limit number: ")) # Human entering limit
         UserSecretNum = int(input(f"Enter a secret number between 1 & {LimitNum}: ")) # Human entering secret num to be guessed by computer
         ComputerGuess(LimitNum, UserSecretNum)
-        if input("Again? y/n: ") != 'y': # For breaking while loop
-            print('See you again, exited.')
+        if input("Computer guess again? y/n: ") != 'y': # For breaking while loop
+            print("Humans are still better, don't worry. See you again...")
             break    
 
 def human():
@@ -34,13 +34,13 @@ def human():
                 print("Guess is too low")
             elif guess > HumGuess:
                 print("Guess is too high")
-        print(f'Congrats...You correctly guessed {HumGuess}\nNumber of steps: {steps-1}') # steps - 1 for omitting the false iteration of loop
+        print(f'Congrats...You correctly guessed {HumGuess}\nNumber of steps: {steps}')
 
     while True:
         inp_num = int(input("Enter a num(limit): "))
         HumanGuess(inp_num) 
-        if input("Again? y/n: ") != 'y': # For breaking while loop
-            print('See you again, exited.')
+        if input("Human guess again? y/n: ") != 'y': # For breaking while loop
+            print('Smart...Thank you for guessing. See you again...')
             break
 
 while True:
@@ -51,6 +51,6 @@ while True:
         human()
     else:
         print("Choice is out of range...")
-    if input("All Again? y/n: ") != 'y': # For breaking while loop
-        print('See you again, exited.')
+    if input("Human or Computer guess again? y/n: ") != 'y': # For breaking while loop
+        print('See you next time...')
         break                
