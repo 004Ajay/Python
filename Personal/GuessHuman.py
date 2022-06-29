@@ -1,4 +1,4 @@
-# Simple Program to guess a number
+# Simple Program for human to guess a number
 
 import random
 def guess(num):
