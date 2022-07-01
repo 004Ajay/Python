@@ -12,7 +12,7 @@ def guess(limit, SecretNum):
             print(f"{guess} is too low")
         elif guess > SecretNum:
             print(f"{guess} is too high")
-    print(f'Computer correctly guessed, {SecretNum}\nNumber of steps: {steps-1}') # steps - 1 for omitting the false run of loop
+    print(f'Computer correctly guessed, {SecretNum}\nNumber of steps: {steps}') # steps - 1 for omitting the false run of loop
 
 
 while True:
