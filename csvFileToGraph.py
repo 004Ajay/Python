@@ -60,5 +60,5 @@ plt.legend(bbox_to_anchor = (1.5 , 1.03))
 plt.show() # Displaying the Graph
 
 # RESULT
-print(f"Females's mean mark, {femaleMean} > Male's mean mark, {round(maleMean, 4)}\n")
-print("Therefore, both Mathematically & Graphically", '\033[1m' + 'Females are better performers.' + '\033[0m')
+print("\nTherefore, both Mathematically & Graphically")
+print('\033[1m' + 'Females are better performers.' + '\033[0m') if femaleMean > maleMean else print('\033[1m' + 'Males are better performers.' + '\033[0m')
