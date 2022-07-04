@@ -18,16 +18,16 @@ def guess(begin, limit):
     print(f'Computer correctly guessed, {guess}\nNumber of steps: {steps}')        
 
 while True:
-    startNum = int(input("Enter a starting number: ")) # Human entering start number
+    StartNum = int(input("Enter a starting number: ")) # Human entering start number
     LimitNum = int(input("Enter a limit number: ")) # Human entering limit
-    if startNum > LimitNum: # catching the clever one.
+    if StartNum > LimitNum: # catching the clever one.
         print("Starting num > Limit num.\nPlease try again.")
-        startNum = int(input("Enter a starting number: ")) # Human correcting start number
+        StartNum = int(input("Enter a starting number: ")) # Human correcting start number
         LimitNum = int(input("Enter a limit number: ")) # Human entering another limit
-        guess(startNum, LimitNum)
+        guess(StartNum, LimitNum)
     else:
-        print(f"Bounds set between {startNum} & {LimitNum}")
-        guess(startNum, LimitNum)
+        print(f"Bounds set between {StartNum} & {LimitNum}")
+        guess(StartNum, LimitNum)
     if input("Again? y/n: ") != 'y': # For breaking while loop
         print('See you again, exited.')
         break
