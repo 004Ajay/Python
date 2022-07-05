@@ -98,6 +98,12 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
         pip uninstall <package_name>
 
+* To update/upgrade packages
+
+        pip install --upgrade <package_name> 
+        OR
+        pip install -U <package_name>
+
 * To see list of installed python packages
 
         pip list
