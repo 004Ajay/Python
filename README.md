@@ -10,6 +10,10 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
 
+[Chi Square Test](https://github.com/004Ajay/Python/blob/main/ChiSquare.py)
+
+[Correlation Coefficient](https://github.com/004Ajay/Python/blob/main/CorrelationCoefficient.py)
+
 [CSV File to Graph](https://github.com/004Ajay/Python/blob/main/csvFileToGraph.py)
 
 [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
