@@ -8,47 +8,55 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 ## PROGRAMS
 
-[Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
+### Python Basics
 
-[Chi Square Test](https://github.com/004Ajay/Python/blob/main/ChiSquare.py)
+* [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
 
-[Correlation Coefficient](https://github.com/004Ajay/Python/blob/main/CorrelationCoefficient.py)
+* [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
 
-[CSV File to Graph](https://github.com/004Ajay/Python/blob/main/csvFileToGraph.py)
+* [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
 
-[Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
+* [HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
 
-[Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
+* [Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/LargestOfThreeNumbers.py) 
 
-[HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
+* [Matrix Addition with Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithNumpy.py)
 
-[Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/LargestOfThreeNumbers.py) 
+* [Matrix Addition without Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithoutNumpy.py)
 
-[Matrix Addition with Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithNumpy.py)
+* [MultiplicationTable](https://github.com/004Ajay/Python/blob/main/MultiplicationTable.py)
 
-[Matrix Addition without Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithoutNumpy.py)
+* [Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/NumOccurenceRemoval.py) 
 
-[MultiplicationTable](https://github.com/004Ajay/Python/blob/main/MultiplicationTable.py) 
+* [Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/PrimeNumFromFile.py)
 
-[Normal & Stem Graphs](https://github.com/004Ajay/Python/blob/main/NormalStemGraphs.py) 
 
-[Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/NumOccurenceRemoval.py) 
+### Graph Questions
 
-[Plot y =  f(x)](https://github.com/004Ajay/Python/blob/main/PlotyFx.py) 
+* [CSV File to Graph](https://github.com/004Ajay/Python/blob/main/csvFileToGraph.py)
 
-[Poisson Distribution Formula](https://github.com/004Ajay/Python/blob/main/PoissonDistribution.py)
+* [Normal & Stem Graphs](https://github.com/004Ajay/Python/blob/main/NormalStemGraphs.py)
 
-[Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/PrimeNumFromFile.py)
+* [Plot y =  f(x)](https://github.com/004Ajay/Python/blob/main/PlotyFx.py) 
 
-[Programming Graph](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
+* [Poisson Distribution Formula](https://github.com/004Ajay/Python/blob/main/PoissonDistribution.py)
 
-[Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py) 
+* [Programming Graph](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
 
-[SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
+* [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py) 
 
-[Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
+* [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
 
-[Words in a File](https://github.com/004Ajay/Python/blob/main/WordsInFile.py) 
+* [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
+
+* [Words in a File](https://github.com/004Ajay/Python/blob/main/WordsInFile.py)
+
+### Statistics
+
+* [Chi Square Test](https://github.com/004Ajay/Python/blob/main/ChiSquare.py)
+
+* [Correlation Coefficient](https://github.com/004Ajay/Python/blob/main/CorrelationCoefficient.py)
+
 
 ---
 # Personal Works
