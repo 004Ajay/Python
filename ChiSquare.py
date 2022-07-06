@@ -24,7 +24,7 @@ import scipy.stats as stats
 check = stats.chisquare(O, E)
 lst = list(check)
 print(f"Chi Square value: {round(res, 4)}\nVerification: {check}")
-if lst[1] > 0.05:
+if lst[1] > 0.05: # Not sure about this...
     print("We accept Null Hypothesis, since", round(lst[1], 5), "is greater than 0.05")
 else:
     print("We reject Null Hypothesis")
