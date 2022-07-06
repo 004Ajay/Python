@@ -11,10 +11,9 @@ for i in col_total:
     male_col_mul.append(round(i * male_mul, 4))
 print(f"Female e value: {female_col_mul}\nMale e value: {male_col_mul}")
 
+# O : Observed Values, E : Expected Value
 O = female +  male
 E = female_col_mul + male_col_mul
-
-# O : Observed Values, E : Expected Value
 print(f"All observations: {O}\nAll Expectations: {E}")
 res = 0
 for i in range(len(O)):
