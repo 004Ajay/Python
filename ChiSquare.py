@@ -19,12 +19,12 @@ res = 0
 for i in range(len(O)):
     res += (pow((O[i] - E[i]), 2) / E[i])
 
-# To checking the result
+# For checking the result
 import scipy.stats as stats
 check = stats.chisquare(O, E)
 lst = list(check)
 print(f"Chi Square value: {round(res, 4)}\nVerification: {check}")
-if lst[1] > 0.05: # Not sure about this...
-    print(f"We accept Null Hypothesis, since {round(lst[1], 5)} > 0.05")
+if lst[1] > 0.05: # Result
+    print("Result: We reject Null Hypothesis")
 else:
-    print("We reject Null Hypothesis")
+    print("Result: We accept Null Hypothesis")

@@ -10,7 +10,7 @@ print(f"Correlation value:\n{np.corrcoef(hand, height)}") # For simplicity, f-st
 # To find percentage of correlation using pearsonr
 lst = list(pearsonr(hand, height))
 print("Pearsonr value: ", lst)
-if lst[1] > 0.05: # Not sure about this...
-    print(f"We reject Null Hypothesis. Since, {round(lst[1], 5)} > 0.05")
+if lst[1] > 0.05: # Result
+    print("Result: We reject Null Hypothesis")
 else:
-    print("We accept Null Hypothesis")
+    print("Result: We accept Null Hypothesis")
