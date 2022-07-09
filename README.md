@@ -28,9 +28,15 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/NumOccurenceRemoval.py) 
 
+* [Poisson Distribution Formula](https://github.com/004Ajay/Python/blob/main/PoissonDistribution.py)
+
 * [Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/PrimeNumFromFile.py)
 
 * [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
+
+* [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
+
+* [Words in a File](https://github.com/004Ajay/Python/blob/main/WordsInFile.py)
 
 
 ### Graph Questions
@@ -41,15 +47,9 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Plot y =  f(x)](https://github.com/004Ajay/Python/blob/main/PlotyFx.py) 
 
-* [Poisson Distribution Formula](https://github.com/004Ajay/Python/blob/main/PoissonDistribution.py)
-
 * [Programming Graph](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
 
-* [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py) 
-
-* [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
-
-* [Words in a File](https://github.com/004Ajay/Python/blob/main/WordsInFile.py)
+* [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py)
 
 ### Statistics
 
