@@ -30,6 +30,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/PrimeNumFromFile.py)
 
+* [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
+
 
 ### Graph Questions
 
@@ -44,8 +46,6 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 * [Programming Graph](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
 
 * [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py) 
-
-* [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
 
 * [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
 
