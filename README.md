@@ -47,7 +47,7 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Plot y =  f(x)](https://github.com/004Ajay/Python/blob/main/PlotyFx.py) 
 
-* [Programming Graph](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
+* [Bar Graph (Programming Languages)](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
 
 * [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py)
 
