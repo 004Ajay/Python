@@ -66,11 +66,11 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 ### Guess the Number programs
 
+* [Guess the Number (Human)](https://github.com/004Ajay/Python/blob/main/Personal/GuessHuman.py)
+
 * [Guess the Number with limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/GuessComputer.py)
 
 * [Guess the Number with starting & limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/GuessComputer2.py)
-
-* [Guess the Number (Human)](https://github.com/004Ajay/Python/blob/main/Personal/GuessHuman.py)
 
 ---
 
