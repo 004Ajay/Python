@@ -57,6 +57,9 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Correlation Coefficient](https://github.com/004Ajay/Python/blob/main/CorrelationCoefficient.py)
 
+### Probability
+
+* [Single Coin Toss](https://github.com/004Ajay/Python/blob/main/coinToss.py)
 
 ---
 # Personal Works
