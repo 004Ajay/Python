@@ -62,7 +62,9 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 * [Single Coin Toss](https://github.com/004Ajay/Python/blob/main/coinToss.py)
 
 ---
+
 # Personal Works
+
 ### Book Stock Keeping
 
 * [Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/Personal/BookStockDict.py)
@@ -74,6 +76,10 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 * [Guess the Number with limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/GuessComputer.py)
 
 * [Guess the Number with starting & limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/GuessComputer2.py)
+
+### Other
+
+* [Coefficient of Determination (Class Question - Statistics)](https://github.com/004Ajay/Python/blob/main/Personal/CoeffOfDet.py)
 
 ---
 
