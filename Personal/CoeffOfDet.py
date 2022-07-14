@@ -15,13 +15,13 @@ for i in range(len(Y)):
     m_val = (Y[i] - Y_mean) ** 2
     Y_sq.append(round(val, 4)) # Appending to list
     Y_mean_sq.append(round(m_val, 4))
-    
+   
 Y_sq_sum = round(sum(Y_sq), 4) # SSE
 Y_mean_sq_sum = round(sum(Y_mean_sq), 4) # SSR
 SST = Y_sq_sum + Y_mean_sq_sum # SST
 R_sq = 1-(Y_sq_sum/SST) # R^2
 
-print("x\t\ty\t\tŷ\t\t(y - ŷ)^2\t(y - ȳ)^2") # Printing headings
+print("x\t\ty\t\t  ŷ\t       (y - ŷ)^2\t(y - ȳ)^2") # Printing headings
 for i in range(len(Y_cap)):
-    print(f"{'-'* 75}\n{X[i]}\t\t{Y[i]}\t\t{Y_cap[i]}\t\t{Y_sq[i]}\t\t{Y_mean_sq[i]}") # Printing Table
+    print(f"{'-'* 75}\n{X[i]}\t|\t{Y[i]}\t|\t{Y_cap[i]}\t |\t{Y_sq[i]}\t   |\t{Y_mean_sq[i]}") # Printing Table
 print(f"\nΣ(y - ŷ)^2: {Y_sq_sum}\tΣ(y - ȳ)^2: {Y_mean_sq_sum}\tSST: {SST}\tR^2: {round(R_sq, 4)}") # Printing final values
