@@ -78,6 +78,7 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 * [Guess the Number with starting & limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/GuessComputer2.py)
 
 ### Other
+##### Some class works made easy
 
 * [Coefficient of Determination (Class Question - Statistics)](https://github.com/004Ajay/Python/blob/main/Personal/CoeffOfDet.py)
 
