@@ -9,7 +9,7 @@ This is a heavy & very inefficient code which iterates upto
 If you're lucky then this 'Shuffling Sort' can show result 
 in less than 10 steps, else a Lakh times. Chance of system crash is high.
 
-Change the value of line -- to a value that your computer can handle.
+Change the value of line 26 to a value that your computer can handle.
 
 """
 import random
@@ -29,5 +29,5 @@ while True:
             break
     if new_lst != sorted(lst):
         print("Failed after 100000 shuffling")
-    if input("Do you want to continue?") == 'n' or 'N':
+    if input("Do you want to continue?") != 'y' or 'Y':
         break   
