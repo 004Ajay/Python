@@ -65,6 +65,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 # Personal Works
 
+* [Shuffle Sort (risky)](https://github.com/004Ajay/Python/blob/main/Personal/ShuffleSort.py)
+
 ### Book Stock Keeping
 
 * [Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/Personal/BookStockDict.py)
