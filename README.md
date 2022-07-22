@@ -84,6 +84,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Coefficient of Determination (Statistics)](https://github.com/004Ajay/Python/blob/main/Personal/CoeffOfDet.py)
 
+* [Correlation (Pearson r)](https://github.com/004Ajay/Python/blob/main/Personal/CorrelationR.py)
+
 ---
 
 # Python Tips
