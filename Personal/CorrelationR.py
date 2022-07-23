@@ -1,3 +1,5 @@
+# Question: Calculation pearson r value for the given x & y values
+
 import math, statistics
 
 x = [10, 12, 15, 30, 25, 27, 32]
