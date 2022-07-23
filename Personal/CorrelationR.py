@@ -38,5 +38,5 @@ print(f"\n{'-'*73}\n| x\t|\ty\t|\tXiYi\t|\tXi_sq\t|\tYi_sq\t|\n{'-'*73}")
 for i in range(len(x)):
     print(f"| {x[i]}\t|\t{y[i]}\t|\t{XiYi[i]}\t|\t{Xi_sq[i]}\t|\t{Yi_sq[i]}\t|\n{'-'*73}")   
 print(f"\nx̄: {x_mean}\t|\tȳ: {y_mean}\t|\tx̄ȳ: {xy_bar}\t|\tΣXiYi: {XiYi_sum}\t|\n")
-print(f"\nΣx̄^2: {x_mean_sq}\t|\tΣȳ^2: {y_mean_sq}\t|\tΣXi^2: {Xi_sq_sum}\t|\tΣYi^2: {Yi_sq_sum}\t|\n\n{'-'*90}")     
+print(f"\nx̄^2: {x_mean_sq}\t|\tȳ^2: {y_mean_sq}\t|\tΣXi^2: {Xi_sq_sum}\t|\tΣYi^2: {Yi_sq_sum}\t|\n\n{'-'*90}")     
 print(f"\nPxy: {round(Pxy, 4)}\t|\tσx: {round(sig_x, 4)}\t|\tσy: {round (sig_y, 4)}\t|\tr: {round(r, 4)}\n\n{'-'*90}")
