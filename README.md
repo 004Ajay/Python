@@ -51,6 +51,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py)
 
+* [Square Wave](https://github.com/004Ajay/Python/blob/main/squareWave.py)
+
 ### Statistics
 
 * [Chi Square Test](https://github.com/004Ajay/Python/blob/main/ChiSquare.py)
