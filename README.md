@@ -16,6 +16,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
 
+* [Factorial of a number](https://github.com/004Ajay/Python/blob/main/factorial.py)
+
 * [HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
 
 * [Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/LargestOfThreeNumbers.py) 
