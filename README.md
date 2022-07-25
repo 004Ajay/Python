@@ -8,11 +8,7 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 ## PROGRAMS
 
-### Python Basics
-
-* [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
-
-* [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
+### Basics
 
 * [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
 
@@ -21,10 +17,6 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 * [HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
 
 * [Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/LargestOfThreeNumbers.py) 
-
-* [Matrix Addition with Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithNumpy.py)
-
-* [Matrix Addition without Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithoutNumpy.py)
 
 * [MultiplicationTable](https://github.com/004Ajay/Python/blob/main/MultiplicationTable.py)
 
@@ -36,10 +28,20 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
 
+
+### Intermediate
+
+* [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
+
+* [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
+
+* [Matrix Addition with Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithNumpy.py)
+
+* [Matrix Addition without Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithoutNumpy.py)
+
 * [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
 
 * [Words in a File](https://github.com/004Ajay/Python/blob/main/WordsInFile.py)
-
 
 ### Graph Questions
 
