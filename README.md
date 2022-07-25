@@ -10,6 +10,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 ### Basics
 
+* [Anagrams](https://github.com/004Ajay/Python/blob/main/anagrams.py)
+
 * [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
 
 * [Factorial of a number](https://github.com/004Ajay/Python/blob/main/factorial.py)
