@@ -1,5 +1,7 @@
-num=int(input())
-factorial=1
+# Python program to find factorial of a number
+
+num = int(input("Enter a number: "))
+fact = 1
 for i in range(1,num + 1):
-    factorial = factorial*i
-print(factorial)
+    fact = fact * i
+print(f"{num}! = {fact}")

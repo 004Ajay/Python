@@ -1,3 +1,7 @@
+"""
+Anagrams: A meaningful word made by rearranging another word
+"""
+
 name=list(input())
 name2=list(input())
 a=""
