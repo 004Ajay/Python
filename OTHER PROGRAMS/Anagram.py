@@ -16,7 +16,14 @@ for i in word2:
     b+=i.lower()
   elif i.islower():
     b+=i  
-if sorted(a)==sorted(b):
+
+
+
+  print("Yes, it's an anagram") if sorted(a)==sorted(b) else print("Not an anagram")
+
+
+
+  if sorted(a)==sorted(b):
   print("Yes",end="")
 else: 
   print("No",end="")
