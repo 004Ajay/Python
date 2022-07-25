@@ -2,16 +2,16 @@
 Anagrams: A meaningful word made by rearranging another word
 """
 
-name=list(input())
-name2=list(input())
+word1=list(input("Enter the word: "))
+word2=list(input("Enter rearranged word: "))
 a=""
 b=""
-for i in name:
+for i in word1:
   if i.isupper():
     a+=i.lower()
   elif i.islower():
     a+=i
-for i in name2:
+for i in word2:
   if i.isupper():
     b+=i.lower()
   elif i.islower():
