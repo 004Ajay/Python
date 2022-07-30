@@ -73,9 +73,11 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 # Personal Works
 
-* [Word to Alphabet Number](https://github.com/004Ajay/Python/blob/main/Personal/WordToAlphaNumber.py)
-
 * [Shuffle Sort (risky)](https://github.com/004Ajay/Python/blob/main/Personal/ShuffleSort.py)
+
+* [Text to Speech (with file saving)](https://github.com/004Ajay/Python/blob/main/Personal/TextToSpeech.py)
+
+* [Word to Alphabet Number](https://github.com/004Ajay/Python/blob/main/Personal/WordToAlphaNumber.py)
 
 ### Book Stock Keeping
 
