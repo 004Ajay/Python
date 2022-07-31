@@ -1,5 +1,5 @@
 """
-** if-else shorthand in python is used **
+** if-else shorthand in python is used ** -> easy to understand, but not always.
 
 step 1: Getting an input number and converting it to integer data type
 

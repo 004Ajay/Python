@@ -73,6 +73,8 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 # Personal Works
 
+* [Even or Odd (One Line Code)](https://github.com/004Ajay/Python/blob/main/EvenOddOneLine.py)
+
 * [Shuffle Sort (risky)](https://github.com/004Ajay/Python/blob/main/Personal/ShuffleSort.py)
 
 * [Text to Speech (with file saving)](https://github.com/004Ajay/Python/blob/main/Personal/TextToSpeech.py)
