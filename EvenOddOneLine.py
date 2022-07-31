@@ -9,5 +9,5 @@ step 2: Checking whether the number is even or odd using (num % 2 == 0)
 step 3: if step 2 operation is true, then number is even else the number is odd
 
 """ 
-# code: 
+# One line code: 
 print("Even") if int(input("Number: ")) % 2 == 0 else print("Odd")
