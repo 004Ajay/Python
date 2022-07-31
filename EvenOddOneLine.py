@@ -1,10 +1,13 @@
 """
-step 1: Getting an input number
-step 2:
-step 3:
-step 4:
-step 1: 
-"""
+** if-else shorthand in python is used **
 
+step 1: Getting an input number and converting it to integer data type
+
+step 2: Checking whether the number is even or odd using (num % 2 == 0)
+        [% -> modulo operand, takes reminder from division]
+
+step 3: if step 2 operation is true, then number is even else the number is odd
+
+""" 
+# code: 
 print("Even") if int(input("Number: ")) % 2 == 0 else print("Odd")
-
