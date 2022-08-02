@@ -64,10 +64,10 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 ### Statistics
 
 * [Chi Square Test](https://github.com/004Ajay/Python/blob/main/Class/ChiSquare.py) 
+
 * [Correlation Coefficient](https://github.com/004Ajay/Python/blob/main/Class/CorrelationCoefficient.py) 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Probability
 
