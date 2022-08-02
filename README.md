@@ -73,6 +73,7 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Single Coin Toss](https://github.com/004Ajay/Python/blob/main/Class/coinToss.py)
 
+
 ---
 
 # Personal Works
