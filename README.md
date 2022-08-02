@@ -88,9 +88,11 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Word to Alphabet Number](https://github.com/004Ajay/Python/blob/main/Personal/WordToAlphaNumber.py)
 
+
 ### Book Stock Keeping
 
 * [Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/Personal/BookStockDict.py)
+
 
 ### Guess the Number programs
 
@@ -100,14 +102,18 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Guess the Number with starting & limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/GuessComputer2.py)
 
+
 ### Other
+
 ##### Some class works made easy
 
 * [Coefficient of Determination (Statistics)](https://github.com/004Ajay/Python/blob/main/Personal/CoeffOfDet.py)
 
 * [Correlation (Pearson r)](https://github.com/004Ajay/Python/blob/main/Personal/CorrelationR.py)
 
+
 ---
+
 
 # Python Tips
 
