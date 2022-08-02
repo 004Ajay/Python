@@ -49,14 +49,17 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 ### Graph Questions
 
 * [Bar Graph](https://github.com/004Ajay/Python/blob/main/Class/ProgrammingGraph.py) 
+
 * [CSV File to Graph](https://github.com/004Ajay/Python/blob/main/Class/csvFileToGraph.py) 
+
 * [Normal & Stem Graphs](https://github.com/004Ajay/Python/blob/main/Class/NormalStemGraphs.py) 
+
 * [Plot y =  f](https://github.com/004Ajay/Python/blob/main/Class/PlotyFx.py) 
 * [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/Class/RectifierGraph.py) 
+
 * [Square Wave](https://github.com/004Ajay/Python/blob/main/Class/squareWave.py) 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Statistics
 
