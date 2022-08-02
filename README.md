@@ -33,41 +33,42 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 ### Intermediate
 
-* [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/DictBookStock.py)
+* [Book Stock keeping using Dictionary](https://github.com/004Ajay/Python/blob/main/Class/DictBookStock.py) 
 
-* [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/ValidityEmailId.py) 
+* [Email Id Validity Checker](https://github.com/004Ajay/Python/blob/main/Class/ValidityEmailId.py) 
 
-* [Matrix Addition with Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithNumpy.py)
+* [Matrix Addition with Numpy](https://github.com/004Ajay/Python/blob/main/Class/MatrixAdditionWithNumpy.py) 
 
-* [Matrix Addition without Numpy](https://github.com/004Ajay/Python/blob/main/MatrixAdditionWithoutNumpy.py)
+* [Matrix Addition without Numpy](https://github.com/004Ajay/Python/blob/main/Class/MatrixAdditionWithoutNumpy.py) 
 
-* [Word Replacing](https://github.com/004Ajay/Python/blob/main/WordReplacing.py) 
+* [Word Replacing](https://github.com/004Ajay/Python/blob/main/Class/WordReplacing.py) 
 
-* [Words in a File](https://github.com/004Ajay/Python/blob/main/WordsInFile.py)
+* [Words in a File](https://github.com/004Ajay/Python/blob/main/Class/WordsInFile.py) 
+
 
 ### Graph Questions
 
-* [Bar Graph (Programming Languages)](https://github.com/004Ajay/Python/blob/main/ProgrammingGraph.py) 
+* [Bar Graph](https://github.com/004Ajay/Python/blob/main/Class/ProgrammingGraph.py) 
+* [CSV File to Graph](https://github.com/004Ajay/Python/blob/main/Class/csvFileToGraph.py) 
+* [Normal & Stem Graphs](https://github.com/004Ajay/Python/blob/main/Class/NormalStemGraphs.py) 
+* [Plot y =  f](https://github.com/004Ajay/Python/blob/main/Class/PlotyFx.py) 
+* [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/Class/RectifierGraph.py) 
+* [Square Wave](https://github.com/004Ajay/Python/blob/main/Class/squareWave.py) 
 
-* [CSV File to Graph](https://github.com/004Ajay/Python/blob/main/csvFileToGraph.py)
 
-* [Normal & Stem Graphs](https://github.com/004Ajay/Python/blob/main/NormalStemGraphs.py)
-
-* [Plot y =  f(x)](https://github.com/004Ajay/Python/blob/main/PlotyFx.py) 
-
-* [Rectifier Graph](https://github.com/004Ajay/Python/blob/main/RectifierGraph.py)
-
-* [Square Wave](https://github.com/004Ajay/Python/blob/main/squareWave.py)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Statistics
 
-* [Chi Square Test](https://github.com/004Ajay/Python/blob/main/ChiSquare.py)
+* [Chi Square Test](https://github.com/004Ajay/Python/blob/main/Class/ChiSquare.py) 
+* [Correlation Coefficient](https://github.com/004Ajay/Python/blob/main/Class/CorrelationCoefficient.py) 
 
-* [Correlation Coefficient](https://github.com/004Ajay/Python/blob/main/CorrelationCoefficient.py)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Probability
 
-* [Single Coin Toss](https://github.com/004Ajay/Python/blob/main/coinToss.py)
+* [Single Coin Toss](https://github.com/004Ajay/Python/blob/main/Class/coinToss.py)
 
 ---
 
