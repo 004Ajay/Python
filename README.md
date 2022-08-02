@@ -10,25 +10,25 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 ### Basics
 
-* [Anagrams](https://github.com/004Ajay/Python/blob/main/anagrams.py)
+* [Anagrams](https://github.com/004Ajay/Python/blob/main/Class/anagrams.py)
 
-* [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/EvenOddTuplePrint.py) 
+* [Even Odd Tuple Separation](https://github.com/004Ajay/Python/blob/main/Class/EvenOddTuplePrint.py)
 
-* [Factorial of a number](https://github.com/004Ajay/Python/blob/main/factorial.py)
+* [Factorial of a number](https://github.com/004Ajay/Python/blob/main/Class/factorial.py) 
 
-* [HelloWorld](https://github.com/004Ajay/Python/blob/main/HelloWorld.py) 
+* [HelloWorld](https://github.com/004Ajay/Python/blob/main/Class/HelloWorld.py) 
 
-* [Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/LargestOfThreeNumbers.py) 
+* [Largest Of Three Numbers](https://github.com/004Ajay/Python/blob/main/Class/LargestOfThreeNumbers.py) 
 
-* [MultiplicationTable](https://github.com/004Ajay/Python/blob/main/MultiplicationTable.py)
+* [MultiplicationTable](https://github.com/004Ajay/Python/blob/main/Class/MultiplicationTable.py) 
 
-* [Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/NumOccurenceRemoval.py) 
+* [Number Occurence Removal](https://github.com/004Ajay/Python/blob/main/Class/NumOccurenceRemoval.py) 
 
-* [Poisson Distribution Formula](https://github.com/004Ajay/Python/blob/main/PoissonDistribution.py)
+* [Poisson Distribution Formula](https://github.com/004Ajay/Python/blob/main/Class/PoissonDistribution.py) 
 
-* [Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/PrimeNumFromFile.py)
+* [Prime Numbers from a File](https://github.com/004Ajay/Python/blob/main/Class/PrimeNumFromFile.py) 
 
-* [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/CylinderSA&VOL.py)
+* [SA & VOL of Cylinder](https://github.com/004Ajay/Python/blob/main/Class/CylinderSA&VOL.py) 
 
 
 ### Intermediate
